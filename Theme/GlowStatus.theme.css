@@ -1,0 +1,27 @@
+//META{"name":"GlowStatus","description":"Adjustable radial status, with glow effect, larger avatars & typing animation. Can be border style. User settings available. Please use the support server listed below if you need any help.","author":"Satoru","version":"1.8","website":"http://discord.gg/fjvwb95"}*//{}
+
+@import url(https://satoru8.github.io/Addons/GlowStatus.css);
+
+/* 
+The settings should be easy to understand. 
+
+--round = All PFP Border Radius. 
+-sglow = First number is the glow effect(Blur), second number is the actual border and thickness.
+
+>If you want the normal Glow Status use 5px 0px
+>If you want the normal Border Status, use 0px 2px
+*/
+
+:root {
+
+    --round: 5px; /* 0% Square, 50% Circle */
+    --sglow: 5px 2px; /* Blur/Thickness Default: 5px 2px */
+
+    --online: #43b581;
+    --offline: #747f8d;
+    --idle: #faa61a;
+    --stream: #593695;
+    --dnd: #f04747;
+    --invis: #1a36fa;
+    
+}
