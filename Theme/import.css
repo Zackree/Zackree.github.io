@@ -1,3 +1,4 @@
+/*//META{"name":"DarkerDiscord1","description":"Congratulations, your discord is now darker than before!","author":"ExiLe","version":"1.0.0","update_url":"https://raw.githubusercontent.com/Zackree/DarkerDiscord/master/DarkerDiscord.theme.css"}*//**/
 
 .ui-standard-sidebar-view .content-column.default {
     background: #19191b;
@@ -311,11 +312,3 @@ element.style {
 	border-radius: 2px !important;
 	zoom: 100% !important;
 }
-
-.membersWrap-2h-GB4 .members-1998pB .small-5Os1Bb {
-    background-size: 30px !important;
-	height: 30px !important;
-	width: 30px !important;
-}
-
-
