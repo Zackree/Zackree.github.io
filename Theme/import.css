@@ -1,4 +1,5 @@
 
+
 .ui-standard-sidebar-view .content-column.default {
     background: #19191b;
 }
@@ -296,12 +297,6 @@ element.style {
     background: #222224 !important;
 }
 
-::-webkit-scrollbar-thumb {
-	border: 1px solid #303235 !important;
-	background-color: #303235 !important;
-	color: #303235 !important;
-}
-
 .inner-1W0Bkn{
     border-radius: 5px !important;
 	zoom: 100% !important;
@@ -316,8 +311,32 @@ element.style {
     background-size: 30px !important;
 	height: 30px !important;
 	width: 30px !important;
+	border-radius: 5px !important;
 }
 
 .theme-dark .item-1GzJrl {
     background: #222224 !important;
+}
+
+::-webkit-scrollbar-thumb {
+	border: 1px solid #303235 !important;
+	background-color: #303235 !important;
+	background: #303235 !important;
+	color: #303235 !important;
+}
+
+::-webkit-scrollbar-track  {
+	background-color: #19191b !important;
+	background: #19191b !important;
+}
+
+::-webkit-scrollbar {
+	background-color: #19191b !important;
+	border: 0px solid #19191b !important;
+}
+
+::-webkit-scrollbar-track-piece {
+	background-color: #19191b !important;
+	border: 0px solid #19191b !important;
+	color: #19191b !important;
 }
