@@ -365,3 +365,10 @@ element.style {
 .theme-dark .wrapper-1Rf91z {
     background-color: #19191b;
 }
+
+.wrapper-2lTRaf element.style {
+    height: 20px;
+    border-radius: 4px;
+    margin-left: 8px;
+    margin-right: -15px;
+}
