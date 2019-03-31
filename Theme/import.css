@@ -340,3 +340,24 @@ element.style {
 	border: 0px solid #19191b !important;
 	color: #19191b !important;
 }
+
+.theme-dark .container-3gCOGc {
+    background-color: #19191b;
+}
+
+.friendsTable-133bsv .friendsTableHeader-32yE7d {
+    border-bottom: 1px solid hsla(0,0%,100%,.1);
+    background-color: #19191b;
+}
+
+.header-39GIC8 {
+    background-color: #19191b;
+}
+
+.action-1lSjCi, .theme-light .action-1lSjCi {
+    background: #222224;
+}
+
+.theme-dark .slideBody-2nMrnU, .theme-light .slideBody-2nMrnU {
+    background: #19191b;
+}
