@@ -382,24 +382,24 @@ element.style {
 }
 
 .scrollerWrap-otKoZo {
-    margin-right: -40px;
-    margin-left: 0px;
+    margin-right: -40px !important;
+    margin-left: 0px !important;
 }
 
 .messages-3amgkR {
-    margin-left: -10px;
+    margin-left: -10px !important;
 }
 
 .theme-dark .members-1998pB {
-    margin-left: 0px;
+    margin-left: 0px !important;
 }
 
 .content-OzHfo4 {
-    margin-left: -5px;
+    margin-left: -5px !important;
 }
 
 .theme-dark #MemberCount {
-    color: hsla(0, 0%, 100%, 0.4);
-    background: #19191b;
-    padding-right: 45px;
+    color: hsla(0, 0%, 100%, 0.4) !important;
+    background: #19191b !important;
+    padding-right: 45px !important;
 }
