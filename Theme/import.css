@@ -397,3 +397,9 @@ element.style {
 .content-OzHfo4 {
     margin-left: -5px;
 }
+
+.theme-dark #MemberCount {
+    color: hsla(0, 0%, 100%, 0.4);
+    background: #19191b;
+    padding-right: 45px;
+}
