@@ -15,7 +15,7 @@ The settings should be easy to understand.
 :root {
 
     --round: 5px; /* 0% Square, 50% Circle */
-    --sglow: 5px 2px; /* Blur/Thickness Default: 5px 2px */
+    --sGlow: 5px 2px; /* Blur/Thickness Default: 5px 2px */
 
     --online: #43b581;
     --offline: #747f8d;
