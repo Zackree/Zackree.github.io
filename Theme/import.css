@@ -434,6 +434,12 @@ element.style {
     border: 1px solid #222224 !important;
 }
 
+.theme-dark .container-3baos1, .theme-light .container-3baos1 {
+    background: #19191b !important;
+}
 
+.container-1giJp5 {
+    background: #19191b !important;
+}
 
 
