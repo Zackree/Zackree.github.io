@@ -442,4 +442,15 @@ element.style {
     background: #19191b !important;
 }
 
+:root {
+	
+	--mainBG: #19191b;
+	--mainBG2: #19191b;
+	--backdrop: #19191b;
+	--bgBrightness: transparent;
+	--borderColour: #19191b;
+	
+	--mainAccent: #19191b;
+	--scrollBars: #19191b;
+}
 
