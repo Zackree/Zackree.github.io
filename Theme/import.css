@@ -454,3 +454,20 @@ element.style {
 	--scrollBars: #19191b;
 }
 
+.activityPanel-28dQGo {
+    border-bottom: 1px solid var(--background-modifier-accent);
+    background: #19191b !important;
+}
+
+.searchBar-6Kv8R2 {
+    background: #19191b !important;
+}
+
+.friendsTable-133bsv .friendsTableBody-1ZhKif {
+    padding-top: 2px;
+    padding-bottom: 20px;
+    overflow-x: hidden;
+    background-color: #19191b !important;
+}
+
+
