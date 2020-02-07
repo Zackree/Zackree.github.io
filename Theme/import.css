@@ -473,3 +473,30 @@ element.style {
 .theme-dark .bodyInner-245q0L, .theme-dark .footer-1fjuF6 {
     background-color: #19191b !important;
 }
+
+.scrollableContainer-2NUZem {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: var(--channeltextarea-background);
+    max-height: 144px;
+    border-radius: 8px;
+    margin-right: 15px !important;
+}
+
+.form-2fGMdU:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: .5rem;
+    width: 0rem !important;
+}
+
+.channelTextArea-rNsIhG {
+    margin-bottom: 8px !important;
+    background-color: var(--background-primary);
+}
+
+
+
+
